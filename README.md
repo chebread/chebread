@@ -12,3 +12,7 @@ I take simple and intuitive web development very seriously.
 
 #### Command-line tools
 - [ft](https://github.com/chebread/ft) - A plugin that find for a string in a file
+
+### Contacts
+- [haneum-blog](https://haneum-blog.vercel.app) - Personal blog
+- [@haneum](https://velog.io/@haneum) - Tech blog
