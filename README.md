@@ -1,4 +1,4 @@
-### Hi, I'm Cha Haneum ✨
+### Hi, I'm Cha Haneum
 I take simple and intuitive web development very seriously.
 
 ### Check out my projects
