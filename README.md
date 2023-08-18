@@ -1,4 +1,4 @@
-## I'm Cha Haneum, a person who can do it if I wants to 🚀
+## Who is Cha Haneum as a developer?
 
 I am [a Frontend developer]() and Korean, working as  [a solo student developer]().<br/>
 
