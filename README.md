@@ -2,8 +2,8 @@
   <a href="introduce.md">
     👨‍💻&nbsp;Introduce
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="email.md">
-    ✉️&nbsp;Email
+  <a href="mailto:chahanm@proton.me">
+    ✉️&nbsp;chahanm@proton.me
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://velog.io/@haneum">
     💭&nbsp;Blog
