@@ -6,7 +6,7 @@
     ✉️&nbsp;chahanm@proton.me
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="projects.md">
-    🏠&nbsp;Projects
+    ✨&nbsp;Projects
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://velog.io/@haneum">
     🏠&nbsp;Blog
