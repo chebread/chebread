@@ -7,5 +7,8 @@
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://velog.io/@haneum">
     💭&nbsp;Blog
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
+   <a href="https://medium.com/@hamn">
+    💭&nbsp;My thoughts
   </a>
 </h3>
