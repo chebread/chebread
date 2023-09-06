@@ -8,7 +8,7 @@
   <a href="projects.md">
     ✨&nbsp;Projects
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://velog.io/@haneum">
+  <a href="https://thisishaneum.com">
     🏠&nbsp;Blog
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
    <a href="https://medium.com/@hamn">
