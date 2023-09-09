@@ -10,7 +10,7 @@ Let me introduce you to my website projects.
 - [md-typewriter.vercel.app](https://github.com/chebread/md-typewriter)
 - [haneum-todo-list.vercel.app](https://github.com/chebread/todo-list)
 - [gitits](https://github.com/chebread/gitits)
-- [hamkke](https://github.com/chebread/hammke)
+- [hamkke](https://github.com/chebread/hamkke)
 - [gatchy](https://github.com/chebread/gatchy)
 - [treshe](https://github.com/chebread/treshe)
 - [haneumblog.vercel.app](https://github.com/chebread/blogHaneum)
