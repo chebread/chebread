@@ -6,7 +6,7 @@ Let me introduce you to my website projects.
 
 - [introducemee.vercel.app](https://github.com/chebread/Introduce)
 - [watchJs](https://github.com/chebread/watchJs)
-- [colvier.vercel.app](https//github.com/chebread/colvier)
+- [colvier.vercel.app](https://github.com/chebread/colvier)
 - [md-typewriter.vercel.app](https://github.com/chebread/md-typewriter)
 - [haneum-todo-list.vercel.app](https://github.com/chebread/todo-list)
 - [gitits](https://github.com/chebread/gitits)
