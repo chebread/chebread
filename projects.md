@@ -5,7 +5,6 @@ Also, before learning web techs, I did many fun projects with Python.
 Let me introduce you to my website projects.
 
 - [introducemee.vercel.app](https://github.com/chebread/Introduce)
-  - This is my first website, created while learning HTML, CSS, and JS.
 - [watchJs](https://github.com/chebread/watchJs)
 - [colvier.vercel.app](https//github.com/chebread/colvier)
 - [md-typewriter.vercel.app](https://github.com/chebread/md-typewriter)
