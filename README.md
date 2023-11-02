@@ -10,8 +10,5 @@
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://thisishaneum.com">
     🏠&nbsp;Blog
-  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
-   <a href="https://medium.com/@hamn">
-    💭&nbsp;My thoughts
   </a>
 </h3>
