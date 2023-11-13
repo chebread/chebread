@@ -1,10 +1,10 @@
 ## Who is Cha Haneum as a developer?
 
+> What is more important than. the hot passion is the constant passion. - Mark Zuckerburg
+
 I am [a Frontend developer]() and Korean, working as  [a solo student developer]().<br/>
 
-These are my thoughts about programing.
-- I prefer FP than OPP
-- I hate Vanilla JavaScript because it is too inefficient
+- I prefer FP than OPP.
 
 These are tech stacks that I can put to good use.
 - JavaScript
