@@ -2,30 +2,27 @@
 I have developed many websites that run on SPA or MPA.<br/>
 Also, before learning web techs, I did many fun projects with Python.
 
-Let me introduce you to my website projects.
+### Websites
 
-- [introducemee.vercel.app](https://github.com/chebread/Introduce)
+- [introduce](https://github.com/chebread/Introduce)
 - [watchJs](https://github.com/chebread/watchJs)
-- [colvier.vercel.app](https://github.com/chebread/colvier)
-- [md-typewriter.vercel.app](https://github.com/chebread/md-typewriter)
-- [haneum-todo-list.vercel.app](https://github.com/chebread/todo-list)
+- [colvier](https://github.com/chebread/colvier)
+- [md-typewriter](https://github.com/chebread/md-typewriter)
 - [gitits](https://github.com/chebread/gitits)
 - [hamkke](https://github.com/chebread/hamkke)
 - [gatchy](https://github.com/chebread/gatchy)
 - [treshe](https://github.com/chebread/treshe)
-- [haneumblog.vercel.app](https://github.com/chebread/blogHaneum)
-- [sajin.page](https://github.com/chebread/sajin.page)
-- [sajin](https://github.com/chebread/sajin)
-- [spothouse.app](https://github.com/chebread/spothouse.app)
-- [nowPlace](https://github.com/chebread/nowPlace)
+- [sajinpage](https://github.com/chebread/sajin.page)
+- [spothouse](https://github.com/chebread/spothouse.app)
+- [nowplace](https://github.com/chebread/nowPlace)
 - [thisishaneum.com](https://github.com/chebread/thisishaneum.com)
 
-Let me introduce you to my fun python projects.
+### Python projects
 
 - [ft](https://github.com/chebread/ft)
 - [findText](https://github.com/chebread/findText)
 - [loadText](https://github.com/chebread/loadText)
-- [Worker](https://github.com/chebread/Worker)
+- [worker](https://github.com/chebread/Worker)
 - [watch](https://github.com/chebread/watch)
 - [watchTime](https://github.com/chebread/watchTime)
 - [currencyConverter](https://github.com/chebread/currencyConverter)
