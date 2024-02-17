@@ -11,13 +11,13 @@
 
 
 <h3 align="center">
-  <a href="introduce.md">
-    👨‍💻&nbsp;Introduce
+  <a href="https://thisishaneum.com/portfolio">
+    👨‍💻&nbsp;Portfolio
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:chahanm@proton.me">
     ✉️&nbsp;chahanm@proton.me
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="projects.md">
+  <a href="https://github.com/chebread?tab=repositories)https://github.com/chebread?tab=repositories">
     ✨&nbsp;Projects
   </a>
 </h3>
