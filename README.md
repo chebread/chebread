@@ -17,7 +17,7 @@
   <a href="mailto:chahanm@proton.me">
     ✉️&nbsp;chahanm@proton.me
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/chebread?tab=repositories)https://github.com/chebread?tab=repositories">
+  <a href="https://github.com/chebread?tab=repositories">
     ✨&nbsp;Projects
   </a>
 </h3>
