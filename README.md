@@ -5,10 +5,11 @@
   <a href="mailto:chahanm@proton.me">
     ✉️&nbsp;chahanm@proton.me
   </a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/chebread?tab=repositories">
-    ✨&nbsp;Projects
-  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://thisishaneum.com">
     🏠&nbsp;Blog
   </a>
 </h3>
+
+<br>
+
+<h4>👋🏻 chebread.json</h4>
