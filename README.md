@@ -3,25 +3,15 @@
 ```json
 {
   "name": "Cha Haneum",
-  "description": "I am Cha Haneum, a Front-end developer."
+  "description": "I am Cha Haneum, a Front-end developer.",
   "tech": {
     "language": ["JavaScript", "TypeScript"],
-    "front-end": {
-      "React": {
-        "libraries": ["Next.js", "React Native"],
-      },
-      "JavaScript": {
-        "libraries": ["Jest"],
-      }
-    },
-    "back-end": {
-      "Node.js": {
-         "libraries": ["Express.js", "Next.js"],
-      }
-    },
-    "etc": ["Supabase", "Firebase"]
+    "front-end": ["React.js", "Next.js", "Supabase", "Firebase"],
+    "back-end": ["Node.js", "Express", "Fastify", "Prisma"],
   },
-  "awards": ["한국코드페어 해커톤 2022", "공개SW개발자대회 2021"]
+  "link": {
+    "blog": "https://velog.io/@haneum",
+    "instagram": "https://instagram.com/unseulson"
+  }
 }
-
 ```
