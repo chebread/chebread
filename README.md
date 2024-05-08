@@ -8,10 +8,7 @@
     "language": ["JavaScript", "TypeScript"],
     "front-end": ["React.js", "Next.js", "Supabase", "Firebase"],
     "back-end": ["Node.js", "Express", "Fastify", "Prisma"],
-  },
-  "link": {
-    "blog": "https://velog.io/@haneum",
-    "instagram": "https://instagram.com/unseulson"
   }
 }
 ```
+### About me
