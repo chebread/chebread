@@ -11,7 +11,3 @@
   }
 }
 ```
-### About me
-- Portfolio [thisishaneum.com](https://thisishaneum.com)
-- Blog: [Velog (@haneum)](https://velog.io/@haneum)
-- Email: [fromhaneum@gmail.com](mailto:fromhaneum@gmail.com)
