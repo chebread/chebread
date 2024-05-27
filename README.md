@@ -12,8 +12,7 @@
   },
   "contact": {
     "blog": "https://chebread.github.io",
-    "email": "fromhaneum@gmail.com",
-    "velog": "https://velog.io/@haneum"
+    "email": "fromhaneum@gmail.com"
   }
 }
 ```
