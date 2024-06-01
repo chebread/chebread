@@ -2,7 +2,7 @@
 
 ```json
 {
-  "name": "Cha Haneum",
+  "name": "Haneum Cha",
   "description": "I am Cha Haneum, a Front-end developer.",
   "tech": {
     "language": ["JavaScript", "TypeScript", "Dart", "Swfit"],
