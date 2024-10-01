@@ -1,1 +1,1 @@
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=haneum)](https://github.com/eungyeole/velog-readme-stats)
+What is more important than the hot passion is the constant passion.
