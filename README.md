@@ -1,13 +1,7 @@
 <h3>Cha Haneum</h3>
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchebread&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false">
- 
-  <source media="(prefers-color-scheme: light)" srcset="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchebread&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false">
- 
-  <img alt="badge" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchebread&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false">
-</picture>
-</p>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchebread&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E">
