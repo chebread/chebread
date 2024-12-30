@@ -1,6 +1,4 @@
-<h3>Greetings.<br/>
-I am a developer,</br>
-Cha Haneum.</h3>
+<h3>Cha Haneum</h3>
 
 <!--<h3>Greetings.<br/>
 I am a developer,</br>
