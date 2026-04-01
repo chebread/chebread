@@ -1,3 +1,3 @@
 <div align="center">
-<h2>Programmer who changes the world for the better</h2>
+<h3>Programmer who changes the world for the better</h3>
 </div>
