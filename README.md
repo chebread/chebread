@@ -1,3 +1,3 @@
 <div align="center">
-<h3>Programmer who changes the world for the better</h3>
+<h3>Hello. I'm Cha Haneum, a programmer making the world a better place.</h3>
 </div>
