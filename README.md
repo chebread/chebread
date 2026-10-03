@@ -2,6 +2,6 @@
 
 Systems programmer. Making the world a better place.
 
-- Blog: https://link.chebread.org/blog
+- Blog: https://chebread.org
 - Email: [che@chebread.org](https://link.chebread.org/email)
 - Sponsor: https://link.chebread.org/sponsor
